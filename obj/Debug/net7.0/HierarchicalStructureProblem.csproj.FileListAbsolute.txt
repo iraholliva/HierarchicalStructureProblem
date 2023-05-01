@@ -1,0 +1,15 @@
+I:\irah\REIZ\HierarchicalStructureProblem\bin\Debug\net7.0\HierarchicalStructureProblem.exe
+I:\irah\REIZ\HierarchicalStructureProblem\bin\Debug\net7.0\HierarchicalStructureProblem.deps.json
+I:\irah\REIZ\HierarchicalStructureProblem\bin\Debug\net7.0\HierarchicalStructureProblem.runtimeconfig.json
+I:\irah\REIZ\HierarchicalStructureProblem\bin\Debug\net7.0\HierarchicalStructureProblem.dll
+I:\irah\REIZ\HierarchicalStructureProblem\bin\Debug\net7.0\HierarchicalStructureProblem.pdb
+I:\irah\REIZ\HierarchicalStructureProblem\obj\Debug\net7.0\HierarchicalStructureProblem.csproj.AssemblyReference.cache
+I:\irah\REIZ\HierarchicalStructureProblem\obj\Debug\net7.0\HierarchicalStructureProblem.GeneratedMSBuildEditorConfig.editorconfig
+I:\irah\REIZ\HierarchicalStructureProblem\obj\Debug\net7.0\HierarchicalStructureProblem.AssemblyInfoInputs.cache
+I:\irah\REIZ\HierarchicalStructureProblem\obj\Debug\net7.0\HierarchicalStructureProblem.AssemblyInfo.cs
+I:\irah\REIZ\HierarchicalStructureProblem\obj\Debug\net7.0\HierarchicalStructureProblem.csproj.CoreCompileInputs.cache
+I:\irah\REIZ\HierarchicalStructureProblem\obj\Debug\net7.0\HierarchicalStructureProblem.dll
+I:\irah\REIZ\HierarchicalStructureProblem\obj\Debug\net7.0\refint\HierarchicalStructureProblem.dll
+I:\irah\REIZ\HierarchicalStructureProblem\obj\Debug\net7.0\HierarchicalStructureProblem.pdb
+I:\irah\REIZ\HierarchicalStructureProblem\obj\Debug\net7.0\HierarchicalStructureProblem.genruntimeconfig.cache
+I:\irah\REIZ\HierarchicalStructureProblem\obj\Debug\net7.0\ref\HierarchicalStructureProblem.dll
